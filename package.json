@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/metahuman-alliance/easy-calc.git"
+    "url": "git+https://github.com/metahuman-alliance/easy-calc-format.git"
   },
   "keywords": [
     "calculate",
@@ -20,9 +20,9 @@
   "author": "Metahumans",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/metahuman-alliance/easy-calc/issues"
+    "url": "https://github.com/metahuman-alliance/easy-calc-format/issues"
   },
-  "homepage": "https://github.com/metahuman-alliance/easy-calc#readme",
+  "homepage": "https://github.com/metahuman-alliance/easy-calc-format#readme",
   "dependencies": {
     "bignumber.js": "^9.0.2"
   }

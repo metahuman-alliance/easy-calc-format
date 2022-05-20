@@ -1,0 +1,29 @@
+{
+  "name": "easy-calc-format",
+  "version": "1.0.0",
+  "description": "Easy to calculate and format to deal with precision issues.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metahuman-alliance/easy-calc.git"
+  },
+  "keywords": [
+    "calculate",
+    "format",
+    "decimal",
+    "digital"
+  ],
+  "author": "Metahumans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metahuman-alliance/easy-calc/issues"
+  },
+  "homepage": "https://github.com/metahuman-alliance/easy-calc#readme",
+  "dependencies": {
+    "bignumber.js": "^9.0.2"
+  }
+}
